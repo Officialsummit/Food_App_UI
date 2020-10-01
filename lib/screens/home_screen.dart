@@ -4,6 +4,8 @@ import 'package:food_app_ui/widgets/recent_orders.dart';
 import 'package:food_app_ui/widgets/restaurants_list.dart';
 import 'package:google_fonts/google_fonts.dart';
 
+import 'cart_screen.dart';
+
 class HomeScreen extends StatefulWidget {
   @override
   _HomeScreenState createState() => _HomeScreenState();
@@ -45,7 +47,10 @@ class _HomeScreenState extends State<HomeScreen> {
                 fontSize: 20,
               ),
             ),
-            onPressed: () {},
+            onPressed: () {
+              Navigator.push(
+                  context, MaterialPageRoute(builder: (_) => CartScreen()));
+            },
           )
         ],
       ),
