@@ -1,16 +1,15 @@
-# food_app_ui
+# Food Ghar
 
-A new Flutter project.
+A Simple UI of Food App
 
-## Getting Started
+## Screenshot
+HomePage :
+<img src="https://user-images.githubusercontent.com/34604479/95648085-5d630300-0af4-11eb-83c3-e6e48544207a.jpg" width="100" height="100">
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Restaurant Menu Page :
+<img src="https://user-images.githubusercontent.com/34604479/95648158-d1051000-0af4-11eb-8fe3-214c32c3847e.jpg" width="100" height="100">
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
